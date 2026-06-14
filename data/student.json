@@ -1,0 +1,184 @@
+{
+  "students": [
+    {
+      "name": "vaibhav",
+      "rollNumber": 10,
+      "marks": {
+        "math": 10,
+        "science": 20,
+        "arts": 30
+      }
+    },
+    {
+      "name": "sachin",
+      "rollNumber": 11,
+      "marks": {
+        "math": 40,
+        "science": 80,
+        "arts": 90
+      }
+    },
+    {
+      "name": "amit",
+      "rollNumber": 12,
+      "marks": {
+        "math": 67,
+        "science": 74,
+        "arts": 81
+      }
+    },
+    {
+      "name": "pooja",
+      "rollNumber": 13,
+      "marks": {
+        "math": 88,
+        "science": 92,
+        "arts": 76
+      }
+    },
+    {
+      "name": "neha",
+      "rollNumber": 14,
+      "marks": {
+        "math": 54,
+        "science": 61,
+        "arts": 70
+      }
+    },
+    {
+      "name": "rahul",
+      "rollNumber": 15,
+      "marks": {
+        "math": 73,
+        "science": 68,
+        "arts": 59
+      }
+    },
+    {
+      "name": "ankita",
+      "rollNumber": 16,
+      "marks": {
+        "math": 91,
+        "science": 85,
+        "arts": 88
+      }
+    },
+    {
+      "name": "rohit",
+      "rollNumber": 17,
+      "marks": {
+        "math": 45,
+        "science": 52,
+        "arts": 60
+      }
+    },
+    {
+      "name": "kiran",
+      "rollNumber": 18,
+      "marks": {
+        "math": 79,
+        "science": 83,
+        "arts": 77
+      }
+    },
+    {
+      "name": "simran",
+      "rollNumber": 19,
+      "marks": {
+        "math": 62,
+        "science": 71,
+        "arts": 69
+      }
+    },
+    {
+      "name": "deepak",
+      "rollNumber": 20,
+      "marks": {
+        "math": 58,
+        "science": 64,
+        "arts": 72
+      }
+    },
+    {
+      "name": "meena",
+      "rollNumber": 21,
+      "marks": {
+        "math": 84,
+        "science": 79,
+        "arts": 91
+      }
+    },
+    {
+      "name": "arjun",
+      "rollNumber": 22,
+      "marks": {
+        "math": 93,
+        "science": 95,
+        "arts": 89
+      }
+    },
+    {
+      "name": "priya",
+      "rollNumber": 23,
+      "marks": {
+        "math": 66,
+        "science": 73,
+        "arts": 80
+      }
+    },
+    {
+      "name": "nisha",
+      "rollNumber": 24,
+      "marks": {
+        "math": 57,
+        "science": 62,
+        "arts": 68
+      }
+    },
+    {
+      "name": "vivek",
+      "rollNumber": 25,
+      "marks": {
+        "math": 76,
+        "science": 81,
+        "arts": 74
+      }
+    },
+    {
+      "name": "manoj",
+      "rollNumber": 26,
+      "marks": {
+        "math": 49,
+        "science": 55,
+        "arts": 63
+      }
+    },
+    {
+      "name": "swati",
+      "rollNumber": 27,
+      "marks": {
+        "math": 87,
+        "science": 90,
+        "arts": 85
+      }
+    },
+    {
+      "name": "akash",
+      "rollNumber": 28,
+      "marks": {
+        "math": 71,
+        "science": 69,
+        "arts": 75
+      }
+    },
+    {
+      "name": "rani",
+      "rollNumber": 29,
+      "marks": {
+        "math": 64,
+        "science": 78,
+        "arts": 82
+      }
+    }
+  ]
+}

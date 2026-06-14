@@ -1,0 +1,20 @@
+{
+  "name": "testometer-apr26-batch",
+  "version": "1.0.0",
+  "main": "array.js",
+  "type": "module",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cucumber/cucumber": "^12.9.0",
+    "cucumber-js": "^1.0.0",
+    "playwright": "^1.60.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.8.0"
+  }
+}
