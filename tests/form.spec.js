@@ -50,7 +50,7 @@ test("checking alerts ", async({page})=>{
 
 
 })
-test.only("checking windows  ", async({page})=>{
+test("checking windows  ", async({page})=>{
     await page.locator("a" , {hasText : "Open Google Dashboard"}).click(); 
     const[newTab] = await Promise.all([
         page.waitForEvent("popup")
@@ -64,7 +64,7 @@ test.only("checking windows  ", async({page})=>{
     }
 })
 
-test.only("checking windows 1 ", async({page})=>{
+test("checking windows 1 ", async({page})=>{
     page.locator("").dblclick();
     page.locator("").click({button: 'right'})
     // right click
